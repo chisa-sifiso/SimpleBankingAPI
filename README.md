@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Banking System - README</title>
+  
 </head>
 <body>
     <header>
@@ -37,7 +37,7 @@
         <h2>Setup Instructions</h2>
         <p>Follow these steps to set up the project locally:</p>
         <ol>
-            <li>Clone the repository: <code>git clone <a href="https://github.com/your-repo/simple-banking-system.git">https://github.com/your-repo/simple-banking-system.git</a></code></li>
+            <li>Clone the repository: <code>git clone <a href="https://github.com/chisa-sifiso/simple-banking-system.git">https://github.com/your-repo/simple-banking-system.git</a></code></li>
             <li>Navigate to the project directory: <code>cd simple-banking-system</code></li>
             <li>Build and run the application using Maven: <code>./mvnw spring-boot:run</code></li>
             <li>Visit the application in your browser at: <a href="http://localhost:8080">http://localhost:8080</a></li>
