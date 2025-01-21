@@ -89,7 +89,7 @@ spring.jpa.hibernate.ddl-auto=update
         <p>For more advanced testing, you can access the H2 database at <a href="http://localhost:8080/h2-console">http://localhost:8080/h2-console</a>.</p>
     </section>
     <footer>
-        <p>Created by  | &copy; 2024</p>
+        <p>Created by  Sifiso vinjwa| &copy; 2024</p>
     </footer>
 </body>
 </html>
